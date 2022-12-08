@@ -1,4 +1,6 @@
  Hi, I'm Nikhil 👋
+ 
+ ![image title](https://rushter.com/counter.svg)
 
 Here are some ideas to get you started:
 
