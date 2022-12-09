@@ -1,8 +1,7 @@
  Hi, I'm Nikhil 👋
  
- ![image title](https://rushter.com/counter.svg)
+<!--  ![image title](https://rushter.com/counter.svg) -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Pheuture Studio
 - 🌱 I’m currently learning backend.
