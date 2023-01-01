@@ -9,6 +9,7 @@
 
 🚀 Languages and Tools:
 
+<img src="https://your-image-url.type](https://user-images.githubusercontent.com/71602391/206434195-d6135c77-565d-4ca1-908b-708aff0195ae.png" width="100" height="100">
 ![image](https://user-images.githubusercontent.com/71602391/206434195-d6135c77-565d-4ca1-908b-708aff0195ae.png)
 ![image](https://user-images.githubusercontent.com/71602391/206434275-93e5cd45-ef18-4705-b21a-ddc810195667.png)
 ![image](https://user-images.githubusercontent.com/71602391/206434331-e3bb1d63-07b6-474c-b91f-a7f0795fef31.png)
