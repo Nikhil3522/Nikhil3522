@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working in Pheuture Studio
-- 🌱 I’m currently learning backend.
 - 📫 How to reach me: nikhiljha3522@gmail.com
 
 🚀 Languages and Tools:
